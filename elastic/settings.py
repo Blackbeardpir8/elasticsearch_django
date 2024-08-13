@@ -41,7 +41,7 @@ INSTALLED_APPS = [
 
 EXTERNAL_APPS = [
     'search',
-    'django_elasticsearch_dsl',
+    'django_elasticsearch_dsl', 
 ]
 
 INSTALLED_APPS = INSTALLED_APPS + EXTERNAL_APPS 
